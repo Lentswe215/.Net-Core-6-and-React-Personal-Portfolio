@@ -1,0 +1,19 @@
+body{
+    box-sizing: border-box;
+    background: rgb(201, 201, 255);
+    height:100vh;
+}
+
+footer {
+    & a {
+        text-decoration: none;
+        color:#c9c9ff;
+        font-weight: bolder;
+        letter-spacing: .5px;
+
+        &:hover{
+            border:1px pink solid;
+            content: icon;
+        }
+    }
+}

@@ -1,4 +1,4 @@
-namespace LenMam
+namespace LenMamPortfolio
 {
     public class WeatherForecast
     {
